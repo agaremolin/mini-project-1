@@ -1,0 +1,25 @@
+nav {
+    font-family:"Felix Titling";
+    font-size: small;
+}
+.navbar-nav > a{
+    padding-left:10px;
+    padding-right:10px;
+    margin-left:50px;
+    margin-right:10px;
+    color:gray;
+  }
+  .mx-auto > a{	margin-left:10px;
+    margin-right:50px;
+    font-size:xx-large;
+    font-style:inherit;
+    color:gray;
+  }
+  h1 {color: gray;
+    font-size: xx-large;
+    font-family: "Felix Titling";
+    text-align: center;}
+button {color: gray;
+    font-size: large;
+    font-family: "Felix Titling";
+}
